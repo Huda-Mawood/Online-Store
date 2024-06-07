@@ -1,0 +1,977 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Online Store.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Online Store.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\1.jpeg",
+      "PackagePath": "staticwebassets\\Image\\1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\14231ff163051d7f8265936dcf52a7e8.jpg",
+      "PackagePath": "staticwebassets\\Image\\14231ff163051d7f8265936dcf52a7e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\15 Best Things To Do In Mumbai, India.jpeg",
+      "PackagePath": "staticwebassets\\Image\\15 Best Things To Do In Mumbai, India.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\18457feb1ffd6fdefa4f548ded54d51f.jpg",
+      "PackagePath": "staticwebassets\\Image\\18457feb1ffd6fdefa4f548ded54d51f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\19508449_Business-Social-Media-Banner-08 (3).png",
+      "PackagePath": "staticwebassets\\Image\\19508449_Business-Social-Media-Banner-08 (3).png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\2.png",
+      "PackagePath": "staticwebassets\\Image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\3e8a337d96d406a3140305dade3c5c94.jpg",
+      "PackagePath": "staticwebassets\\Image\\3e8a337d96d406a3140305dade3c5c94.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\5136Y63Lq4L._SL500_.jpg",
+      "PackagePath": "staticwebassets\\Image\\5136Y63Lq4L._SL500_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\5a9d8aa9e2363ffe5b16794ebe691a20.jpg",
+      "PackagePath": "staticwebassets\\Image\\5a9d8aa9e2363ffe5b16794ebe691a20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\5e2631b30b00bfd1c59987756e003f1b.jpg",
+      "PackagePath": "staticwebassets\\Image\\5e2631b30b00bfd1c59987756e003f1b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\88148058de236ecb09e5adec5f2b812a.jpg",
+      "PackagePath": "staticwebassets\\Image\\88148058de236ecb09e5adec5f2b812a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\9d98ea97f269af84161bb28ed8e2f5e8.jpg",
+      "PackagePath": "staticwebassets\\Image\\9d98ea97f269af84161bb28ed8e2f5e8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\Atomic Habits.jpeg",
+      "PackagePath": "staticwebassets\\Image\\Atomic Habits.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\Bilionários de Dreamland - Lauren Asher.jpeg",
+      "PackagePath": "staticwebassets\\Image\\Bilionários de Dreamland - Lauren Asher.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\Boy free icons designed by Creartive.jpeg",
+      "PackagePath": "staticwebassets\\Image\\Boy free icons designed by Creartive.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\Chemise oversize curated on LTK.jpeg",
+      "PackagePath": "staticwebassets\\Image\\Chemise oversize curated on LTK.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\Electronics.jpeg",
+      "PackagePath": "staticwebassets\\Image\\Electronics.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\Journal Card - Big Hero 6 - Baymax - logo - 3x4 photo by pixiesprite.jfif",
+      "PackagePath": "staticwebassets\\Image\\Journal Card - Big Hero 6 - Baymax - logo - 3x4 photo by pixiesprite.jfif"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\Rich Dad Poor Dad_ What the Rich Teach Their Kids about Money That the Poor and Middle Class Do Not! - Walmart_com.jpeg",
+      "PackagePath": "staticwebassets\\Image\\Rich Dad Poor Dad_ What the Rich Teach Their Kids about Money That the Poor and Middle Class Do Not! - Walmart_com.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\Tom and Jerry printable sticker.jpeg",
+      "PackagePath": "staticwebassets\\Image\\Tom and Jerry printable sticker.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\Untitled-32.png",
+      "PackagePath": "staticwebassets\\Image\\Untitled-32.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\Untitled.jpeg",
+      "PackagePath": "staticwebassets\\Image\\Untitled.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\Untitled1.jpeg",
+      "PackagePath": "staticwebassets\\Image\\Untitled1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\Untitled12.jpeg",
+      "PackagePath": "staticwebassets\\Image\\Untitled12.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\Untitled2.jpeg",
+      "PackagePath": "staticwebassets\\Image\\Untitled2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\Untitled6.jpeg",
+      "PackagePath": "staticwebassets\\Image\\Untitled6.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\_ Bakar _ بكار _ Egyptian Cartoon Character.jpeg",
+      "PackagePath": "staticwebassets\\Image\\_ Bakar _ بكار _ Egyptian Cartoon Character.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\amazon_logo.png",
+      "PackagePath": "staticwebassets\\Image\\amazon_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\banner-bg.png",
+      "PackagePath": "staticwebassets\\Image\\banner-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\book.jpeg",
+      "PackagePath": "staticwebassets\\Image\\book.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\da8eec7c6922ee6b97b3023e3b5ed90b.jpg",
+      "PackagePath": "staticwebassets\\Image\\da8eec7c6922ee6b97b3023e3b5ed90b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\db8b10f7d8438af6166f635c1502fdff.jpg",
+      "PackagePath": "staticwebassets\\Image\\db8b10f7d8438af6166f635c1502fdff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\ddf7b6000f63aa46730efff1dfc16211.jpg",
+      "PackagePath": "staticwebassets\\Image\\ddf7b6000f63aa46730efff1dfc16211.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (1).jpeg",
+      "PackagePath": "staticwebassets\\Image\\download (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (13).jpg",
+      "PackagePath": "staticwebassets\\Image\\download (13).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (14).jpg",
+      "PackagePath": "staticwebassets\\Image\\download (14).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (15).jpg",
+      "PackagePath": "staticwebassets\\Image\\download (15).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (16).jpg",
+      "PackagePath": "staticwebassets\\Image\\download (16).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (17).jpg",
+      "PackagePath": "staticwebassets\\Image\\download (17).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (18).jpg",
+      "PackagePath": "staticwebassets\\Image\\download (18).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (19).jpg",
+      "PackagePath": "staticwebassets\\Image\\download (19).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (20).jpg",
+      "PackagePath": "staticwebassets\\Image\\download (20).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (21).jpg",
+      "PackagePath": "staticwebassets\\Image\\download (21).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (22).jpg",
+      "PackagePath": "staticwebassets\\Image\\download (22).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (23).jpg",
+      "PackagePath": "staticwebassets\\Image\\download (23).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (6).jpg",
+      "PackagePath": "staticwebassets\\Image\\download (6).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (7).jpg",
+      "PackagePath": "staticwebassets\\Image\\download (7).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download (8).jpg",
+      "PackagePath": "staticwebassets\\Image\\download (8).jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download.jpeg",
+      "PackagePath": "staticwebassets\\Image\\download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\download.jpg",
+      "PackagePath": "staticwebassets\\Image\\download.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\fb-icon.png",
+      "PackagePath": "staticwebassets\\Image\\fb-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\food.jpeg",
+      "PackagePath": "staticwebassets\\Image\\food.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\Image\\hero-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\icon-1.png",
+      "PackagePath": "staticwebassets\\Image\\icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\icon-10.png",
+      "PackagePath": "staticwebassets\\Image\\icon-10.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\icon-2.png",
+      "PackagePath": "staticwebassets\\Image\\icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\icon-3.png",
+      "PackagePath": "staticwebassets\\Image\\icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\icon-4.png",
+      "PackagePath": "staticwebassets\\Image\\icon-4.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\icon-5.png",
+      "PackagePath": "staticwebassets\\Image\\icon-5.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\icon-6.png",
+      "PackagePath": "staticwebassets\\Image\\icon-6.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\icon-7.png",
+      "PackagePath": "staticwebassets\\Image\\icon-7.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\icon-8.png",
+      "PackagePath": "staticwebassets\\Image\\icon-8.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\icon-9.png",
+      "PackagePath": "staticwebassets\\Image\\icon-9.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\images1.jpeg",
+      "PackagePath": "staticwebassets\\Image\\images1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\img-1.png",
+      "PackagePath": "staticwebassets\\Image\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\img-2.png",
+      "PackagePath": "staticwebassets\\Image\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\img-3.png",
+      "PackagePath": "staticwebassets\\Image\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\img-4.png",
+      "PackagePath": "staticwebassets\\Image\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\img-5.png",
+      "PackagePath": "staticwebassets\\Image\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\img-6.png",
+      "PackagePath": "staticwebassets\\Image\\img-6.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\img-7.png",
+      "PackagePath": "staticwebassets\\Image\\img-7.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\img-8.png",
+      "PackagePath": "staticwebassets\\Image\\img-8.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\img-9.png",
+      "PackagePath": "staticwebassets\\Image\\img-9.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\instagram-icon.png",
+      "PackagePath": "staticwebassets\\Image\\instagram-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\left-icon.png",
+      "PackagePath": "staticwebassets\\Image\\left-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\linkedin-icon.png",
+      "PackagePath": "staticwebassets\\Image\\linkedin-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\logo.png",
+      "PackagePath": "staticwebassets\\Image\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\newsletter-bg.png",
+      "PackagePath": "staticwebassets\\Image\\newsletter-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\product_1.png",
+      "PackagePath": "staticwebassets\\Image\\product_1.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\product_10.png",
+      "PackagePath": "staticwebassets\\Image\\product_10.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\product_3.png",
+      "PackagePath": "staticwebassets\\Image\\product_3.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\product_7.png",
+      "PackagePath": "staticwebassets\\Image\\product_7.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\product_8.png",
+      "PackagePath": "staticwebassets\\Image\\product_8.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\right-icon.png",
+      "PackagePath": "staticwebassets\\Image\\right-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\search-icon.png",
+      "PackagePath": "staticwebassets\\Image\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\shopping-bag.png",
+      "PackagePath": "staticwebassets\\Image\\shopping-bag.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\single_3.jpg",
+      "PackagePath": "staticwebassets\\Image\\single_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\single_3_thumb.jpg",
+      "PackagePath": "staticwebassets\\Image\\single_3_thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\toggle-icon.png",
+      "PackagePath": "staticwebassets\\Image\\toggle-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\twitter-icon.png",
+      "PackagePath": "staticwebassets\\Image\\twitter-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\Image\\جبال.jpeg",
+      "PackagePath": "staticwebassets\\Image\\جبال.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\css\\BuyOrder.css",
+      "PackagePath": "staticwebassets\\css\\BuyOrder.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\css\\CreateProduct.css",
+      "PackagePath": "staticwebassets\\css\\CreateProduct.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\css\\LogInStyle.css",
+      "PackagePath": "staticwebassets\\css\\LogInStyle.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\css\\OrderDetails.css",
+      "PackagePath": "staticwebassets\\css\\OrderDetails.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\css\\ProductIndex.css",
+      "PackagePath": "staticwebassets\\css\\ProductIndex.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\css\\SignUp.css",
+      "PackagePath": "staticwebassets\\css\\SignUp.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\css\\cart.css",
+      "PackagePath": "staticwebassets\\css\\cart.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\css\\descripe_styles.css",
+      "PackagePath": "staticwebassets\\css\\descripe_styles.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\css\\descripe_styles11.css",
+      "PackagePath": "staticwebassets\\css\\descripe_styles11.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\css\\style1.css",
+      "PackagePath": "staticwebassets\\css\\style1.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\categories_custom.js",
+      "PackagePath": "staticwebassets\\js\\categories_custom.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\contact_custom.js",
+      "PackagePath": "staticwebassets\\js\\contact_custom.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\single_custom.js",
+      "PackagePath": "staticwebassets\\js\\single_custom.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\js\\slider-setting.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\Isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\plugins\\Isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\animate.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\plugins\\OwlCarousel2-2.2.1\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\plugins\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\plugins\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery-ui-1.12.1.custom\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\AIO\\Desktop\\Online-Store\\Online Store\\wwwroot\\plugins\\themify-icons\\themify-icons.css",
+      "PackagePath": "staticwebassets\\plugins\\themify-icons\\themify-icons.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Online Store.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Online Store.props",
+      "PackagePath": "build\\Online Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Online Store.props",
+      "PackagePath": "buildMultiTargeting\\Online Store.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Online Store.props",
+      "PackagePath": "buildTransitive\\Online Store.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

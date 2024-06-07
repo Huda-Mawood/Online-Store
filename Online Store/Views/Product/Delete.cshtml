@@ -1,0 +1,181 @@
+﻿@model Online_Store.Models.Product
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <style>
+        /* تنسيق الصفحة العامة */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            /* margin: 0; */
+            margin-top:80px;
+            background: linear-gradient(135deg, #71b7e6, #9b59b6);
+            color: #fff;
+            height: 1000px;
+        }
+
+        h1 {
+            color: black; /* لون العنوان باللون الأبيض */
+            margin-bottom: 20px;
+            font-size: 2em;
+            text-align: center;
+        }
+
+        h3 {
+            color: black; /* لون العنوان الفرعي باللون الأبيض */
+            font-size: 1.5em;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .container {
+            background-color: rgba(255, 255, 255, 0.8); /* خلفية بيضاء شفافة */
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            margin: 20px auto;
+            color: #333; /* لون النص داخل الحاوية */
+
+        }
+
+        img {
+            display: block;
+            margin: 0 auto 20px;
+            border-radius: 50%;
+            border: 2px solid #ddd;
+            width: 110px;
+            height: 110px;
+        }
+
+        hr {
+            margin: 20px 0;
+        }
+
+        dl {
+            margin-bottom: 20px;
+        }
+
+        dt {
+            font-weight: bold;
+            color: #333;
+            width: 100px;
+            float: left;
+            clear: left;
+        }
+
+        dd {
+            margin: 0 0 10px 110px;
+            color: #666;
+        }
+
+        .form-actions {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #9b59b6;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+            margin: 5px;
+        }
+
+            .btn:hover {
+                background-color: #d48bf2;
+            }
+
+        .btn-secondary {
+            background-color: #6c757d;
+        }
+
+            .btn-secondary:hover {
+                background-color: #5a6268;
+            }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+
+
+
+    <div class="container">
+        <h1>@ViewData["Title"]</h1>
+        <h3>Are you sure you want to delete this?</h3>
+        <div>
+            <img src="~/Image/@Model.Image" alt="Product Image">
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.ProductName)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.ProductName)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Description)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Description)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Price)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Price)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Category)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Category)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Stock)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Stock)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Weight)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Weight)
+                </dd>
+                <dt class="col-sm-2">
+                    @Html.DisplayNameFor(model => model.Brand)
+                </dt>
+                <dd class="col-sm-10">
+                    @Html.DisplayFor(model => model.Brand)
+                </dd>
+            </dl>
+            <form asp-action="Delete">
+                <input type="hidden" asp-for="ProductId" />
+                <div class="form-actions">
+                    <input type="submit" value="Delete" class="btn btn-danger" /> |
+                    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

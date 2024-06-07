@@ -1,0 +1,46 @@
+﻿@model Online_Store.Models.User
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <title> Responsive Registration Form | CodingLab </title>
+    <link rel="stylesheet" href="~/css/LogInStyle.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+    <div class="container">
+        <div class="title">Log In</div>
+        <div class="content">
+            <form asp-action="LogIn" method="post">
+                <div class="user-details">
+                    <div class="input-box">
+                        <label asp-for="Email" class="control-label"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+                    <div class="input-box">
+                        <label asp-for="Password" class="control-label"></label>
+                        <input asp-for="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                </div>
+               
+
+                <div class="button">
+
+                    <input type="submit" value="Log In">
+                  </div>
+                <div class="signup-link">
+
+                    Not a member? <a href="@Url.Action("Create","User")">Signup now</a>
+                    
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+
+</body>
+</html>

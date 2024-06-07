@@ -1,0 +1,53 @@
+﻿@model Online_Store.Models.Product
+
+@{
+    ViewData["Title"] = "Details";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="~/css/all.min.css">
+    <link rel="stylesheet" href="~/css/descripe_styles.css">
+    <title>Product Details</title>
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <div class="images">
+                <div class="img-holder active">
+                    <img src="~/Image/@Model.Image">
+                </div>
+
+            </div>
+            <div class="basic-info">
+                <h1>@Html.DisplayFor(model => model.ProductName)</h1>
+                <p>@Html.DisplayFor(model => model.Category)</p>
+                <span>@Html.DisplayFor(model => model.Price)EGP</span>
+                <div>
+
+                    <form method="post" action="@Url.Action("AddToCart", "Cart", new { id = Model.ProductId })">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="action" value="Details" asp-route-id="Model.ProductId" />
+                        <button type="submit" class="buy--btn">Add to Cart</button>
+
+                    </form>
+
+                </div>
+            </div>
+            <div class="description">
+
+                <p>
+                    <b>Description</b> <br /> @Html.DisplayFor(model => model.Description)<br />
+                    <B>Stock:</B>  @Html.DisplayFor(model => model.Stock)<br />
+                    <b> Size:</b> @Html.DisplayFor(model => model.Weight)<br />
+                    <b>Brand:</b> @Html.DisplayFor(model => model.Brand)
+                </p>
+
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>

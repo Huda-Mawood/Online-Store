@@ -1,0 +1,164 @@
+﻿@model Online_Store.Models.User
+
+<!DOCTYPE html>
+<!-- Coding By CodingNepal - www.codingnepalweb.com -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <partial name="_LoginPartial" />
+            @* <div class="nav-logo">
+               
+                <h2>Online Store</h2>
+            </div>
+            
+
+            <div class="nav-search">
+                <select class="select-search">
+                    <option>All</option>
+                    <option>Furnitures</option>
+                    <option>Electronics</option>
+                    <option>Foods</option>
+                    <option>Books</option>
+                </select>
+                <input type="text" placeholder="Search Here" class="search-input">
+                <div class="search-icon">
+                    <span class="material-symbols-outlined">search</span>
+                </div>
+            </div>
+
+            @if (Context.Session.GetInt32("UserID") == null)
+            {
+                <div class="sign-in">
+                    <a href="@Url.Action("LogIn","User")">
+                        <p>Log In</p>
+                      
+                    </a>
+                </div>
+
+                <div class="returns">
+                    <a href="@Url.Action("Create","User")">
+                        <p>Sign Up</p>
+                       
+                    </a>
+                </div>
+
+            }
+            else
+            {
+                <div class="returns">
+
+                    <a href="@Url.Action("Logout","Home")">
+                        <p>Log out</p>
+                    
+                    </a>
+                </div>
+
+                <div class="returns">
+                    <a href="@Url.Action("Create","Product")">
+                        <p>Add Product</p>
+                     
+                    </a>
+                </div>
+
+                <div class="cart">
+                    <a href="@Url.Action("Cart","ProductCart")">
+                        <span class="material-symbols-outlined cart-icon">shopping_cart</span>
+                    </a>
+                    <p>Cart</p>
+                </div>
+            } *@
+
+
+
+        </nav>
+
+    </header>
+
+    <section class="hero-section">   </section>
+
+
+
+    <section class="shop-section">
+        <div class="shop-images">
+            <div class="shop-link">
+                <h3>Clothes</h3>
+                <img src="~/Image/Chemise oversize curated on LTK.jpeg" alt="card">
+                <a href="@Url.Action("ClothesIndex","Product")">Shop now</a>
+            </div>
+
+            <div class="shop-link">
+                <h3>Furnitures</h3>
+                <img src="~/Image/download (1).jpeg" alt="card">
+                <a href="@Url.Action("FurnituresIndex","Product")">Shop now</a>
+            </div>
+
+            <div class="shop-link">
+                <h3>Electronics</h3>
+                <img src="~/Image/Electronics.jpeg" alt="card">
+                <a href="@Url.Action("ElectronicsIndex","Product")">Shop now</a>
+            </div>
+
+            <div class="shop-link">
+                <h3>Foods</h3>
+                <img src="~/Image/food.jpeg" alt="card">
+                <a href="@Url.Action("FoodIndex","Product")">Shop now</a>
+            </div>
+
+            <div class="shop-link">
+                <h3>Books</h3>
+                <img src="~/Image/book.jpeg" alt="card">
+                <a href="@Url.Action("BooksIndex","Product")">Shop now</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <a href="#" class="footer-title">
+            Back to top
+        </a>
+        <div class="footer-items">
+            <h5 style="color:white ; margin-top: 100px; margin-left:-100px">2024 Online Store. All Right Reserved</h5>
+            <ul>
+                <h3>Connect with Us</h3>
+                <li><a href="https://www.facebook.com/fatmaa.alaa.14?mibextid=JRoKGi">Facebook</a></li>
+                <li><a href="https://www.instagram.com/fatmaa_alaa495?igsh=MTQ2cnJoNG9iaGVpbw==">Instagram</a></li>
+            </ul>
+
+            <ul>
+                <h3>Fashion</h3>
+                <li><a href="@Url.Action("ClothesIndex","Product")">women's fashion</a></li>
+                <li><a href="@Url.Action("ClothesIndex","Product")">men's fashion</a></li>
+                <li><a href="@Url.Action("ClothesIndex","Product")">Girls' Fashion</a></li>
+
+            </ul>
+
+            <ul>
+                <h3>Books</h3>
+                <li><a href="@Url.Action("BooksIndex","Product")">Romantic</a></li>
+                <li><a href="@Url.Action("BooksIndex","Product")">Adventure</a></li>
+                <li><a href="@Url.Action("BooksIndex","Product")">Policy</a></li>
+
+            </ul>
+
+            <ul>
+                <h3>ELECTRONICS</h3>
+                <li><a href="@Url.Action("ElectronicsIndex","Product")">Mobiles</a></li>
+                <li><a href="@Url.Action("ElectronicsIndex","Product")">Tablets</a></li>
+                <li><a href="@Url.Action("ElectronicsIndex","Product")">Televisions</a></li>
+
+            </ul>
+
+
+        </div>
+    </footer>
+
+
+</body>
+</html>

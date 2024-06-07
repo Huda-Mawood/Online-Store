@@ -1,0 +1,134 @@
+﻿<div class="nav-logo">
+    <a href="@Url.Action("Index","Home")">
+    <h1>Online Store</h1>
+  
+
+</div>
+
+
+@* <div class="nav-search">
+    <select id="categorySelect"
+            name="name" class="form-control" onchange="redirectToPage(this)">
+        <option value="Home/Index">All</option>
+        <option value="FurnituresIndex">Furnitures</option>
+        <option value="ElectronicsIndex">Electronics</option>
+        <option value="ClothesIndex">Clothes</option>
+        <option value="FoodIndex">Foods</option>
+        <option value="BooksIndex">Books</option>
+        <input type="text" id="searchInput" placeholder="Search Here" class="search-input">
+        <div class="search-icon">
+            <span class="material-symbols-outlined">search</span>
+        </div>
+</div> *@
+
+
+
+
+@if (Context.Session.GetInt32("UserID") == null)
+{
+    <div class="title-box" style="background-color: #fff; padding: 8px; margin: 5px auto; width: fit-content; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); text-align: center;">
+        <p style="margin: 0 50px 0 50px; font-size: 1.5em; color: #8f8989;">What Are You Looking For.....?      </p>
+    </div>
+
+    <div class="sign-in">
+        <a href="@Url.Action("LogIn","User")">
+            <p>Log In</p>
+            @* <span>Account &amp; Lists</span> *@
+        </a>
+    </div>
+
+    <div class="returns">
+        <a href="@Url.Action("Create","User")">
+            <p>Sign Up</p>
+            @* <span>&amp; Orders</span> *@
+        </a>
+    </div>
+
+}
+
+
+else if (Context.Session.GetInt32("UserID") == 1)
+{
+    <div class="returns">
+
+        <a href="@Url.Action("Logout","Home")">
+            <p>Log out</p>
+            @* <span>Account &amp; Lists</span> *@
+        </a>
+    </div>
+
+    <div class="returns">
+        <a href="@Url.Action("Create","Product")">
+            <p>Add Product</p>
+            @* <span>&amp; Orders</span> *@
+        </a>
+    </div>
+
+
+    <div class="returns">
+        <a href="@Url.Action("OrderDetails","Order")">
+            <p>Order Details</p>
+            @* <span>&amp; Orders</span> *@
+        </a>
+    </div>
+
+
+    <div class="returns">
+        <a href="@Url.Action("Index","Product")">
+            <p>ِAbout Product</p>
+            @* <span>&amp; Orders</span> *@
+        </a>
+    </div>
+
+
+    <div class="cart">
+        <a href="@Url.Action("Cart","ProductCart")">
+            <span class="material-symbols-outlined cart-icon">shopping_cart</span>
+        </a>
+        <p>Cart</p>
+    </div>
+}
+
+
+else
+{
+    <div class="returns">
+
+        <a href="@Url.Action("Logout","Home")">
+            <p>Log out</p>
+            @* <span>Account &amp; Lists</span> *@
+        </a>
+    </div>
+
+    <div class="returns">
+        <a href="@Url.Action("Create","Product")">
+            <p>Add Product</p>
+            @* <span>&amp; Orders</span> *@
+        </a>
+    </div>
+
+
+    <div class="returns">
+        <a href="@Url.Action("Edit", "User", new { id = Context.Session.GetInt32("UserID") })">
+            <p>Account</p>
+            @* <span>&amp; Orders</span> *@
+        </a>
+    </div>
+
+
+    <div class="cart">
+        <a href="@Url.Action("Cart","ProductCart")">
+            <span class="material-symbols-outlined cart-icon">shopping_cart</span>
+        </a>
+        <p>Cart</p>
+    </div>
+} 
+<script>
+      function redirectToPage(selectElement) {
+          var selectedOption = selectElement.options[selectElement.selectedIndex];
+          var url = selectedOption.value;
+          if (url) {
+              window.location.href = url;
+          }
+      }
+</script>

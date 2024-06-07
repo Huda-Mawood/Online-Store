@@ -1,0 +1,276 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+    a:hover {
+        color: #ddd;
+    }
+
+/* Header or Navbar */
+header {
+    width: 100%;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+
+.navbar {
+    height: 80px;
+    width: 100%; /* ????? ????? ????? 100% */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    color: #fff;
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+
+.dropdown-menu {
+    display: none; /* ???? ??????? ????????? */
+}
+
+/* ????? ??????? ??? ????? */
+.dropdown.show .dropdown-menu {
+    display: block;
+}
+
+
+
+
+
+
+
+
+.nav-search {
+    display: flex;
+    justify-content: space-evenly;
+    max-width: 620px;
+    width: 100%;
+    height: 40px;
+    border-radius: 4px;
+}
+
+.select-search {
+    background: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border: none;
+}
+
+.search-input {
+    max-width: 600px;
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+    padding-left: 10px;
+}
+
+.search-icon {
+    max-width: 45px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    background: #f3f3f3;
+    color: #000;
+    cursor: pointer;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.sign-in p,
+.returns p {
+    font-size: 1.5rem;
+}
+
+.sign-in,
+.returns span {
+    font-size: 0.875rem;
+    font-weight: 600;
+}
+
+.cart {
+    display: flex;
+}
+
+    .cart .cart-icon {
+        font-size: 2.5rem
+    }
+
+    .cart p {
+        margin-top: 20px;
+        font-weight: 500;
+    }
+
+.panel {
+    max-width: 1280px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    cursor: pointer;
+}
+
+    .panel span {
+        margin-right: 7px;
+    }
+
+.links {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 15px;
+    flex-grow: 1;
+    margin-left: 15px;
+}
+
+    .links a {
+        padding: 10px 0;
+    }
+
+.deals a {
+    font-size: 0.9rem;
+    font-weight: 500;
+    white-space: nowrap;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.product {
+    box-shadow: 0px 7px 7px rgba(0.0,0.0,0.0,0.4);
+    border-radius: 20px;
+    float: left; /* Float the product cards to align them side by side */
+}
+
+
+.main-container {
+    /* display:grid;
+    grid-auto-columns:auto auto auto auto;
+    gap:30px;
+    width:25%;
+    hight:120px;*/
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Arrange items in a grid with flexible column widths */
+    grid-gap: 30px; /* Add gap between grid items */
+    width: 100%;
+    padding: 20px;
+}
+
+.product img {
+    width: 100%;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.product-desc {
+    text-align: center;
+}
+
+    .product-desc h3 {
+        font-size: 24px;
+        color:blueviolet;
+        padding: 20px 0px;
+    }
+
+    .product-desc p {
+        font-size: 18px;
+        font-weight: 500;
+        padding: 10px 0px;
+    }
+
+
+
+
+
+button {
+    height: 50%;
+    width: 50%;
+    border-radius: 7px;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+
+
+
+
+/* Style for the breadcrumbs container */
+.breadcrumbs {
+    /* Flexbox layout to arrange items horizontally */
+    display: flex;
+    flex-direction: row;
+    align-items: center; /* Align items vertically center */
+    padding-bottom: 10px;
+}
+
+    /* Style for the list element */
+    .breadcrumbs ul {
+        /* Remove default list styles */
+        list-style: none;
+        margin: 0; /* Remove default margin */
+        padding: 0; /* Remove default padding */
+    }
+
+        /* Style for the list items */
+        .breadcrumbs ul li {
+            /* Style for the breadcrumb items */
+            display: inline; /* Display list items inline */
+        }
+
+            /* Style for the links */
+            .breadcrumbs ul li a {
+                /* Link styles */
+                text-decoration: none; /* Remove underline */
+                color: #333; /* Text color */
+                font-size: 16px; /* Font size */
+                font-weight: 400; /* Font weight */
+            }
+
+            /* Style for the active breadcrumb item */
+            .breadcrumbs ul li.active {
+                /* Style for the active breadcrumb item */
+                font-weight: bold; /* Make the font bold */
+            }
+
+                /* Style for the angle icon */
+                .breadcrumbs ul li.active i.fa {
+                    /* Icon styles */
+                    margin-right: 5px; /* Add margin to the right of the icon */
+                }
+

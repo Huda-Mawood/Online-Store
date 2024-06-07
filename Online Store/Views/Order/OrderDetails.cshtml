@@ -1,0 +1,66 @@
+﻿@{
+    var orders = ViewBag.Orders as List<Order>;
+    var payment = ViewBag.Payment as List<Payment>;
+    var user = ViewBag.Users as List<User>;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>All Orders</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+    <link rel="stylesheet" href="~/css/OrderDetails.css" />
+
+</head>
+<body>
+
+
+    <header>
+
+        <nav class="navbar">
+
+
+            <partial name="_LoginPartial" />
+
+
+        </nav>
+    </header>
+
+    <h1 style="text-align: center;">All Orders</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Order ID</th>
+                <th>User Id</th>
+                <th>User Name</th>
+                <th>Phone</th>
+                <th>Order Date</th>
+                <th>Address</th>
+                <th>Payment Methode</th>
+                <th>TotalPrice</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in orders)
+            {
+                var users = user?.FirstOrDefault(p => p.UserID == order.UserID);
+                var payments = payment?.FirstOrDefault(c => c.PaymentId == order.OrderID);
+                
+                <tr>
+                    <td>@order.OrderID</td>
+                    <td>@users.UserID</td>
+                    <td>@users.userName</td>
+                    <td>@users.Phone</td>
+                    <td>@order.OrderDate.ToShortDateString()</td>
+                    <td>@users.Address</td>
+                    <td>@payments.PaymentWay</td>
+                    <td>@order.TotalPrice</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

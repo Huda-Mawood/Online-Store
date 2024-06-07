@@ -1,0 +1,144 @@
+﻿@model ProductCart
+@{
+    var carts = ViewBag.Carts as List<Cart>;
+    var products = ViewBag.Products as List<Product>;
+    var productCarts = ViewBag.ProductCarts as List<ProductCart>;
+    var orders = ViewBag.Orders as List<Order>;
+    var userId = ViewBag.userId;
+    decimal total_price = 0.0M;
+
+    var cartttt = carts?.FirstOrDefault(c => c.UserId == userId);
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+    <link rel="stylesheet" href="~/css/cart.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        .delete {
+            background: none;
+            border: none;
+            color: red;
+            font-size: 24px;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            border: 2px solid red;
+            transition: background-color 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <partial name="_LoginPartial" />
+        </nav>
+    </header>
+    <div class="px-4 px-lg-0">
+        <div class="main-container">
+            <!-- Hidden input to store cart status -->
+
+            <table>
+                <tr>
+                    <th>Actions</th>
+                    <th>Product Image</th>
+                    <th>Product Name</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                    <th>Total Price</th>
+                </tr>
+                @if (cartttt != null)
+                {
+
+                    @foreach (var productCart in productCarts)
+                    {
+                        var cart = carts?.FirstOrDefault(c => c.UserId == userId);
+
+                        var product = products?.FirstOrDefault(p => p.ProductId == productCart.ProductId && cart?.CartId == productCart.CartId);  // Get associated product
+
+                        <tr>
+
+                            @if (product != null && cart != null)
+                            {
+                                <td>
+                                    <button class="delete" data-product-id="@product.ProductId" data-cart-id="@cart.CartId">&times;</button>
+                                </td>
+                                <td><img class="image" src="@Url.Content("~/Image/" + product.Image)" alt="Product Image" /></td>
+                                <td>@product.ProductName</td>
+                                <td>@productCart.Quantity</td>
+                                <td>@product.Price</td>
+                                <td>@(productCart.Quantity * product.Price)</td>
+                                total_price = total_price + (productCart.Quantity * product.Price);
+                            }
+
+                        </tr>
+                    }
+
+                }
+                else
+                {
+                    <tr>
+                        <td colspan="6">No items in the cart</td>
+                    </tr>
+                }
+
+            </table>
+            <input type="hidden" id="cartttt-status" value="@((cartttt != null) ? "items-available" : "no-items")">
+
+        </div>
+        <div class="flex items-center justify-between px-6 py-3 bg-gray-100">
+            <h3 class="text-gray-900 font-semibold">Total: @total_price</h3>
+        </div>
+        <div>
+            <button class="buttons" id="buy-button">BUY</button>
+        </div>
+    </div>
+
+    <script>
+        $(document).ready(function () {
+            $("#buy-button").click(function (e) {
+                var cartStatus = $("#cartttt-status").val();
+                if (cartStatus === "no-items") {
+                    e.preventDefault();
+                    alert("Purchase not allowed: No items in the cart.");
+                } else {
+                    window.location.href = '@Url.Action("BuyOrder", "Order", new { totalPrice = @total_price })';
+                }
+            });
+
+            $(".delete").click(function () {
+                var productId = $(this).data("product-id");
+                var cartId = $(this).data("cart-id");
+
+                $.ajax({
+                    url: '@Url.Action("DeleteItem", "ProductCart")',
+                    type: 'POST',
+                    data: {
+                        productId: productId,
+                        cartId: cartId
+                    },
+                    success: function (response) {
+                        if (response.success) {
+                            location.reload();
+                        } else {
+                            alert("Error deleting item from cart.");
+                        }
+                    },
+                    error: function () {
+                        alert("Error deleting item from cart.");
+                    }
+                });
+            });
+        });
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,1679 @@
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\appsettings.json
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Online Store.staticwebassets.runtime.json
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Online Store.exe
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Online Store.deps.json
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Online Store.runtimeconfig.json
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Online Store.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Online Store.pdb
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Humanizer.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.AssemblyReference.cache
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\Online Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\Online Store.AssemblyInfoInputs.cache
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\Online Store.AssemblyInfo.cs
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.CoreCompileInputs.cache
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\Online Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\Online Store.RazorAssemblyInfo.cache
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\Online Store.RazorAssemblyInfo.cs
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\Online Store.sourcelink.json
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.Online Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.build.Online Store.props
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Online Store.props
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Online Store.props
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\bundle\Online Store.styles.css
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\projectbundle\Online Store.bundle.scp.css
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.CopyComplete
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\Online Store.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\refint\Online Store.dll
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\Online Store.pdb
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\Online Store.genruntimeconfig.cache
+C:\Users\AIO\Source\Repos\Online-Store\Online Store\obj\Debug\net6.0\ref\Online Store.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\MessagePack.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AIO\source\repos\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\appsettings.Development.json
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\appsettings.json
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Online Store.staticwebassets.runtime.json
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Online Store.exe
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Online Store.deps.json
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Online Store.runtimeconfig.json
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Online Store.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Online Store.pdb
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Humanizer.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\MessagePack.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Build.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Common.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\af\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ar\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\az\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\bg\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\da\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\el\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fa\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\he\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\hr\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\hu\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\hy\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\id\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\is\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ku\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\lv\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\mt\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\nb\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\nl\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ro\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\sk\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\sl\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\sr\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\sv\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\uk\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\vi\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.AssemblyReference.cache
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.AssemblyInfoInputs.cache
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.AssemblyInfo.cs
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.CoreCompileInputs.cache
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.MvcApplicationPartsAssemblyInfo.cache
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.RazorAssemblyInfo.cache
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.RazorAssemblyInfo.cs
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.sourcelink.json
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.build.json
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.development.json
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.Online Store.Microsoft.AspNetCore.StaticWebAssets.props
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.build.Online Store.props
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Online Store.props
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Online Store.props
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.pack.json
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\bundle\Online Store.styles.css
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\projectbundle\Online Store.bundle.scp.css
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online S.1C76CC0D.Up2Date
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.dll
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\refint\Online Store.dll
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.pdb
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.genruntimeconfig.cache
+D:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\ref\Online Store.dll
+D:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\appsettings.Development.json
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\appsettings.json
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Online Store.staticwebassets.runtime.json
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Online Store.exe
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Online Store.deps.json
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Online Store.runtimeconfig.json
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Online Store.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Online Store.pdb
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Humanizer.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\MessagePack.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Build.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Common.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\af\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ar\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\az\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\bg\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\da\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\el\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fa\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\he\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\hr\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\hu\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\hy\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\id\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\is\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ku\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\lv\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\mt\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\nb\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\nl\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ro\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\sk\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\sl\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\sr\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\sv\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\uk\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\vi\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\بتاع زينب\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.AssemblyReference.cache
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.GeneratedMSBuildEditorConfig.editorconfig
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.AssemblyInfoInputs.cache
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.AssemblyInfo.cs
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.CoreCompileInputs.cache
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.MvcApplicationPartsAssemblyInfo.cache
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.RazorAssemblyInfo.cache
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.RazorAssemblyInfo.cs
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.sourcelink.json
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.build.json
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.development.json
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.Online Store.Microsoft.AspNetCore.StaticWebAssets.props
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.build.Online Store.props
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Online Store.props
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Online Store.props
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.pack.json
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\bundle\Online Store.styles.css
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\projectbundle\Online Store.bundle.scp.css
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.CopyComplete
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.dll
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\refint\Online Store.dll
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.pdb
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\Online Store.genruntimeconfig.cache
+F:\بتاع زينب\Online-Store\Online Store\obj\Debug\net6.0\ref\Online Store.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\appsettings.json
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Online Store.staticwebassets.runtime.json
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Online Store.exe
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Online Store.deps.json
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Online Store.runtimeconfig.json
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Online Store.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Online Store.pdb
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Humanizer.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\MessagePack.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.AssemblyReference.cache
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.AssemblyInfoInputs.cache
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.AssemblyInfo.cs
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.CoreCompileInputs.cache
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.RazorAssemblyInfo.cache
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.RazorAssemblyInfo.cs
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.sourcelink.json
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.Online Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.build.Online Store.props
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Online Store.props
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Online Store.props
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\bundle\Online Store.styles.css
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\projectbundle\Online Store.bundle.scp.css
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online S.1C76CC0D.Up2Date
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\refint\Online Store.dll
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.pdb
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.genruntimeconfig.cache
+C:\Users\WIN(10)X64\Desktop\Online-Store\Online Store\obj\Debug\net6.0\ref\Online Store.dll
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.AssemblyReference.cache
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\Online Store.GeneratedMSBuildEditorConfig.editorconfig
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\Online Store.AssemblyInfoInputs.cache
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\Online Store.AssemblyInfo.cs
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.CoreCompileInputs.cache
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\Online Store.MvcApplicationPartsAssemblyInfo.cache
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\Online Store.RazorAssemblyInfo.cache
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\Online Store.RazorAssemblyInfo.cs
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\Online Store.sourcelink.json
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\Online Store.dll
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\refint\Online Store.dll
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\Online Store.pdb
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\appsettings.Development.json
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\appsettings.json
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Online Store.staticwebassets.runtime.json
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Online Store.exe
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Online Store.deps.json
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Online Store.runtimeconfig.json
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Online Store.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Online Store.pdb
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Humanizer.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\MessagePack.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\MessagePack.Annotations.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Build.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Common.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Configuration.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Frameworks.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\NuGet.LibraryModel.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Packaging.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\NuGet.ProjectModel.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Protocol.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Versioning.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Convention.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Hosting.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Runtime.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.TypedParts.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\af\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ar\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\az\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\bg\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\cs\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\da\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\de\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\el\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\es\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\fa\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\fr\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\he\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\hr\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\hu\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\hy\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\id\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\is\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\it\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ja\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ku\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\lv\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\mt\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\nb\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\nl\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pl\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pt\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ro\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ru\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\sk\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\sl\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\sr\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\sv\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\tr\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\uk\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\vi\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ماتريال كلية\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.build.json
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.development.json
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.Online Store.Microsoft.AspNetCore.StaticWebAssets.props
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.build.Online Store.props
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Online Store.props
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Online Store.props
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.pack.json
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\bundle\Online Store.styles.css
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\projectbundle\Online Store.bundle.scp.css
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.CopyComplete
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\Online Store.genruntimeconfig.cache
+F:\ماتريال كلية\Online-Store\Online Store\obj\Debug\net6.0\ref\Online Store.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\appsettings.json
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Online Store.staticwebassets.runtime.json
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Online Store.exe
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Online Store.deps.json
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Online Store.runtimeconfig.json
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Online Store.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Online Store.pdb
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Humanizer.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\MessagePack.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.AssemblyReference.cache
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.AssemblyInfoInputs.cache
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.AssemblyInfo.cs
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.CoreCompileInputs.cache
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.RazorAssemblyInfo.cache
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.RazorAssemblyInfo.cs
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.sourcelink.json
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.Online Store.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.build.Online Store.props
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Online Store.props
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Online Store.props
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\bundle\Online Store.styles.css
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\scopedcss\projectbundle\Online Store.bundle.scp.css
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.csproj.CopyComplete
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\refint\Online Store.dll
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.pdb
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\Online Store.genruntimeconfig.cache
+C:\Users\AIO\Desktop\Online-Store\Online Store\obj\Debug\net6.0\ref\Online Store.dll

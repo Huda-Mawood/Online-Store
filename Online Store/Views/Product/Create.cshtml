@@ -1,0 +1,138 @@
+﻿@model Online_Store.Models.Product
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <title> Responsive Registration Form | CodingLab </title>
+    <link rel="stylesheet" href="~/css/CreateProduct.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
+<body>
+
+
+    @* <div class="dropdown">
+        <button onclick="toggleDropdown()" class="dropbtn">
+            <i class="bi bi-list"></i>
+        </button>
+        <div id="myDropdown" class="dropdown-content">
+            <a href="@Url.Action("Index","Home")">Home</a>
+            <a href="@Url.Action("Index","Product")"> About Product</a>
+            <a href="@Url.Action("OrderDetails","Order")">Order Details</a>
+            <a href="@Url.Action("Logout","Home")"> Log out</a>
+        </div>
+    </div> *@
+
+
+    <div class="container">
+        <div class="title">Add Product</div>
+        <div class="content">
+            <form asp-action="Create" enctype="multipart/form-data">
+                @*   <input type="hidden" asp-for="UserID" />
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div> *@
+
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="user-details">
+                    <div class="input-box">
+                        <label asp-for="ProductName" class="control-label"></label>
+                        <input asp-for="ProductName" class="form-control" />
+                        <span asp-validation-for="ProductName" class="text-danger"></span>
+                    </div>
+
+
+                    <div class="input-box">
+                        <label asp-for="Description" class="control-label"></label>
+                        <input asp-for="Description" class="form-control" />
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+
+                    <div class="input-box">
+                        <label asp-for="Price" class="control-label"></label>
+                        <input asp-for="Price" class="form-control" />
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+                    
+
+                    
+
+
+                    <div class="input-box">
+                        <label asp-for="Stock" class="control-label"></label>
+                        <input asp-for="Stock" class="form-control" />
+                        <span asp-validation-for="Stock" class="text-danger"></span>
+
+                    </div>
+
+                    <div class="input-box">
+                        <label asp-for="Weight" class="control-label"></label>
+                        <input asp-for="Weight" class="form-control" />
+                        <span asp-validation-for="Weight" class="text-danger"></span>
+
+                    </div>
+
+
+                    <div class="input-box">
+                        <label asp-for="Brand" class="control-label"></label>
+                        <input asp-for="Brand" class="form-control" />
+                        <span asp-validation-for="Brand" class="text-danger"></span>
+
+                    </div>
+
+                    <div class="category">
+                        <label asp-for="Category" class="control-label"></label>
+                        <select asp-for="Category" class="form-control" asp-items="Html.GetEnumSelectList<Category>()">
+                            <option value="">-- Select Category --</option>
+                        </select>
+                        <span asp-validation-for="Category" class="text-danger"></span>
+                    </div>
+                    <div>
+                        <input type="file" asp-for="clientFile" onchange="loadFile(event)" />
+                        <img id="myImg" height="200" />
+                    </div>
+                </div>
+              
+
+                <div class="button">
+                    <input type="submit" value="Add">
+                </div>
+            </form>
+        </div>
+    </div>
+
+
+
+    <script>
+        function toggleDropdown() {
+            document.getElementById("myDropdown").classList.toggle("show");
+        }
+
+        window.onclick = function (event) {
+            if (!event.target.matches('.dropbtn, .dropbtn *')) {
+                var dropdowns = document.getElementsByClassName("dropdown-content");
+                for (var i = 0; i < dropdowns.length; i++) {
+                    var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains('show')) {
+                        openDropdown.classList.remove('show');
+                    }
+                }
+            }
+        }
+    </script>
+
+
+
+</body>
+</html>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        var loadFile = function (event) {
+            var reader = new FileReader();
+            reader.onload = function () {
+                var myImg = document.getElementById('myImg');
+                myImg.src = reader.result;
+            }
+            reader.readAsDataURL(event.target.files[0]);
+        }
+    </script>
+}

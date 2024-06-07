@@ -1,0 +1,232 @@
+﻿@model IEnumerable<Online_Store.Models.Product>
+
+@{
+    ViewData["Title"] = "About Product";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.4.1/font/bootstrap-icons.min.css">
+    <style>
+        /* تنسيق الصفحة العامة */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #71b7e6, #9b59b6);
+            color: #333;
+            height: 1000vh;
+            position: relative;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+
+        /* تنسيق العنوان */
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+            text-align: center;
+            font-size: 2.5em;
+        }
+
+        /* تنسيق الزر */
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            color: #fff;
+            background-color: #9b59b6;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+            text-align: center;
+        }
+
+            .btn:hover {
+                background-color: #d48bf2;
+            }
+
+        /* تنسيق الجدول */
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+            .table th, .table td {
+                padding: 15px;
+                text-align: left;
+            }
+
+            .table th {
+                background-color: #f4f4f4;
+                font-weight: bold;
+            }
+
+            .table tr:nth-child(even) {
+                background-color: #f9f9f9;
+            }
+
+            .table img {
+                border-radius: 50%;
+                width: 70px;
+                height: 70px;
+                border: 2px solid #ddd;
+            }
+
+            /* تنسيق روابط الإجراءات */
+            .table td a {
+                margin-right: 10px;
+                text-decoration: none;
+                color: #9b59b6;
+                transition: color 0.3s ease, background-color 0.3s ease;
+                display: inline-block;
+                padding: 5px 10px;
+                border-radius: 5px;
+                border: 1px solid transparent;
+            }
+
+                .table td a:hover {
+                    color: #fff;
+                    background-color: #9b59b6;
+                    border-color: #9b59b6;
+                }
+
+        /* تنسيق الأيقونات */
+        .bi {
+            margin-right: 5px;
+        }
+
+
+
+        /* تنسيق الزر والقائمة المنسدلة في أعلى يمين الصفحة */
+        .dropdown {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+
+        .dropbtn {
+            background-color: #fff;
+            color: #9b59b6;
+            padding: 10px;
+            font-size: 30px;
+            border: none;
+            cursor: pointer;
+            border-radius: 10px;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f1f1f1;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+            right: 0;
+            border-radius: 5px;
+        }
+
+            .dropdown-content a {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+            }
+
+                .dropdown-content a:hover {
+                    background-color: #ddd;
+                }
+
+        .show {
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="dropdown">
+        <button onclick="toggleDropdown()" class="dropbtn">
+            <i class="bi bi-list"></i>
+        </button>
+        <div id="myDropdown" class="dropdown-content">
+            <a href="@Url.Action("Index","Home")">Home</a>
+            <a href="@Url.Action("Create","Product")"> Add Product</a>
+            <a href="@Url.Action("OrderDetails","Order")">Order Details</a>
+            <a href="@Url.Action("Logout","Home")"> Log out</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <h1>@ViewData["Title"]</h1>
+
+        <p>
+            <a asp-action="Create" class="btn"><i class="bi bi-plus-square"></i>&nbsp;Create New Item</a>
+        </p>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        @Html.DisplayNameFor(model => model.ProductName)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.Image)
+                    </th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductName)
+                        </td>
+                        <td>
+                            <img src="~/Image/@item.Image" alt="Product Image">
+                        </td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@item.ProductId"><i class="bi bi-pencil-square"></i>Edit</a>
+                            <a asp-action="Details" asp-route-id="@item.ProductId"><i class="bi bi-eye"></i>Details</a>
+                            <a asp-action="Delete" asp-route-id="@item.ProductId"><i class="bi bi-trash"></i>Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        function toggleDropdown() {
+            document.getElementById("myDropdown").classList.toggle("show");
+        }
+
+        window.onclick = function (event) {
+            if (!event.target.matches('.dropbtn, .dropbtn *')) {
+                var dropdowns = document.getElementsByClassName("dropdown-content");
+                for (var i = 0; i < dropdowns.length; i++) {
+                    var openDropdown = dropdowns[i];
+                    if (openDropdown.classList.contains('show')) {
+                        openDropdown.classList.remove('show');
+                    }
+                }
+            }
+        }
+    </script>
+</body>
+</html>

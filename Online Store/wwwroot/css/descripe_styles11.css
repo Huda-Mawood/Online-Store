@@ -1,0 +1,190 @@
+/* Global styling with some variables */
+$color-primary: #4c4c4c;
+$color-secondary: #a6a6a6;
+$color-highlight: #ff3f40;
+/* Reset margins and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    display: grid;
+    grid-template-rows: 1fr;
+    font-family: "Raleway", sans-serif;
+    background-color: #fff;
+}
+
+/* Product section styling */
+.product {
+    display: grid;
+    grid-template-columns: 0.9fr 1fr;
+    margin: auto;
+    margin-top: 60px;
+    padding: 2.5em 0;
+    max-width: 1200px;
+    background-color: #9abbb840;
+    border-radius: 5px;
+    position: relative; /* Ensures absolute children are positioned within this container */
+    /* Adding space below product section to avoid footer overlap */
+    margin-bottom: 3em;
+}
+
+
+.product__photo {
+    position: relative;
+}
+
+.photo-container {
+    position: relative;
+    left: 3.5em;
+    display: grid;
+    grid-template-rows: 1fr;
+    width: 64%;
+    height: 84%;
+    border-radius: 6px;
+    box-shadow: 4px 4px 25px -2px rgba(0, 0, 0, 0.3);
+}
+
+.photo-main {
+    border-radius: 6px 6px 0 0;
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.25);
+}
+
+img {
+    max-width: 100%;
+    filter: saturate(150%) contrast(120%) hue-rotate(10deg) drop-shadow(1px 20px 10px rgba(0, 0, 0, 0.3));
+}
+
+
+product__info {
+    padding: 0.8em 0;
+}
+
+.title.h1 {
+    margin-bottom: 0.1em;
+    color: $color-primary;
+    font-size: 1.5em;
+    font-weight: 900;
+}
+
+span {
+    font-size: 0.7em;
+    color: $color-secondary;
+}
+
+
+
+.price {
+    margin: 1.5em 0;
+    color: $color-highlight;
+    font-size: 1.2em;
+}
+
+span {
+    padding-left: 0.15em;
+    font-size: 2.9em;
+}
+
+
+
+.variant {
+    overflow: auto;
+}
+
+h3 {
+    margin-bottom: 1.1em;
+}
+
+li {
+    float: left;
+    width: 35px;
+    height: 35px;
+    padding: 3px;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    cursor: pointer;
+    &:first-child, &:hover border: 1px solid $color-secondary;
+}
+
+
+
+    li:not(:first-child) {
+        margin-left: 0.1em;
+    }
+
+
+
+.description {
+    clear: left;
+    margin: 2em 0;
+}
+
+h3 {
+    margin-bottom: 1em;
+}
+
+ul {
+    font-size: 0.8em;
+    list-style: disc;
+    margin-left: 1em;
+}
+
+li {
+    text-indent: -0.6em;
+    margin-bottom: 0.5em;
+}
+
+
+
+.buy--btn {
+    padding: 1.5em 3.1em;
+    border: none;
+    border-radius: 7px;
+    font-size: 0.8em;
+    font-weight: 700;
+    letter-spacing: 1.3px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+    box-shadow: 2px 2px 25px -7px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    position: absolute; /* Places the button absolutely within the relative parent */
+    bottom: 3em; /* Adjust the bottom distance to ensure it's in the right place */
+    right: 4em; /* Adjust the right distance for proper alignment */
+    &:active{
+    transform: scale(0.97); /* A small effect when clicking */
+      }
+}
+
+
+
+/* Footer styling with proper positioning */
+/*footer {
+    padding: 1em;
+    text-align: center;
+    color: #fff;
+    position: relative;*/ /* Ensures the footer doesn't overlap with other elements */
+    /*z-index: 1;*/ /* Lower z-index to avoid conflicts */
+    /*background-color: $color-primary;
+    margin-top: 2em;*/ /* Adds space above footer */
+/*}*/
+
+/* Clearfix for any floated elements to ensure layout stability */
+/*.clearfix::after {
+    content: "";
+    display: block;
+    clear: both;
+}*/
+
+/* Optional: Styling for links in footer */
+/*footer a {
+    color: $color-primary;
+}
+
+    footer a:hover {
+        color: $color-highlight;*/ /* Changes color on hover */
+    /*}*/

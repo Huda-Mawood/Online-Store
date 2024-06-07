@@ -1,0 +1,147 @@
+﻿@model Online_Store.Models.User
+
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    /* تخصيص العناصر النمطية */
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .control-label {
+        font-weight: bold;
+        color: #555;
+    }
+
+    .text-danger {
+        color: red;
+    }
+
+    /* تخصيص الحقول النمطية */
+    .form-control {
+        width: 100%;
+        height: 40px;
+        padding: 10px;
+        font-size: 16px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        transition: border-color 0.3s ease;
+    }
+
+        .form-control:focus {
+            border-color: #66afe9;
+            outline: none;
+            box-shadow: 0 0 5px #66afe9;
+        }
+
+    /* تخصيص زر الحفظ */
+    .btn-primary {
+        padding: 12px 20px;
+        font-size: 18px;
+        border-radius: 5px;
+        border: none;
+        background-color: #9b59b6;
+        
+        color: #fff;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        .btn-primary:hover {
+            background-color: #9b59b6;
+        }
+
+    /* تخصيص الخلفية */
+    body {
+        background: linear-gradient(135deg, #71b7e6, #9b59b6);
+        font-family: Arial, sans-serif;
+    }
+
+    .container {
+        max-width: 500px;
+        margin: 50px auto;
+        padding: 30px;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+        text-align: center;
+        color: #333;
+    }
+
+    hr {
+        border: none;
+        height: 1px;
+        background-color: #ccc;
+        margin: 20px 0;
+    }
+</style>
+
+<h1>Edit</h1>
+
+<h4>User</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="UserID" />
+            <div class="form-group">
+                <label asp-for="NationalID" class="control-label"></label>
+                <input asp-for="NationalID" class="form-control" />
+                <span asp-validation-for="NationalID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FirstName" class="control-label"></label>
+                <input asp-for="FirstName" class="form-control" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LastName" class="control-label"></label>
+                <input asp-for="LastName" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Phone" class="control-label"></label>
+                <input asp-for="Phone" class="form-control" />
+                <span asp-validation-for="Phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="userName" class="control-label"></label>
+                <input asp-for="userName" class="form-control" />
+                <span asp-validation-for="userName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CreditCardNumber" class="control-label"></label>
+                <input asp-for="CreditCardNumber" class="form-control" />
+                <span asp-validation-for="CreditCardNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+
+    
+
+    @section Scripts {
+        @{
+            await Html.RenderPartialAsync("_ValidationScriptsPartial");
+        }
+    }

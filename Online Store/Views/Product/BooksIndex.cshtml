@@ -1,0 +1,56 @@
+﻿@model IEnumerable<Online_Store.Models.Product>
+@{
+    ViewData["Title"] = "Books category | ";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon Website Clone | CodingNepal</title>
+    <link rel="stylesheet" href="~/css/style1.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200">
+</head>
+<body>
+    <header>
+
+        <nav class="navbar">
+            <div class="breadcrumbs d-flex flex-row align-items-center">
+                <ul>
+                    @* <li><a href="Home/Index">Home</a></li> *@
+                   @*  <li class="active"><a href="Product/BooksIndex"><i class="fa fa-angle-right" aria-hidden="true"></i>Books</a></li> *@
+                </ul>
+                <br />
+            </div>
+            <partial name="_LoginPartial" />
+           
+
+            </nav>
+    </header>
+    
+
+
+    <div class="main-container">
+        @foreach (var item in (IEnumerable<Product>)ViewBag.Model)
+        {
+            <div class="product">
+                <img src="~/Image/@item.Image" alt="" />
+                <div class="product-desc">
+                    <h3><a asp-action="Details" asp-route-id="@item.ProductId" style="color:black;"> @Html.DisplayFor(modelItem => item.ProductName)</a></h3>
+                    <p>@Html.DisplayFor(modelItem => item.Price) EGP </p>
+                    <div>
+                        <form method="post" action="@Url.Action("AddToCart", "Cart", new { id = item.ProductId })">
+                           @Html.AntiForgeryToken()
+                            <input type="hidden" name="action" value="BooksIndex" />
+
+                            <button class="bottons">Add to cart</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+
+</body>
+</html>
